@@ -1,8 +1,9 @@
 ### Hi there 👋
-Welcome XD
+Welcome, my name is Imran Zulkarnaen
 
-- 🌱 I’m currently learning html
 - 🔭 I’m currently working on C++
+- 🤔 I’m looking for help with html
+- 🌱 I’m currently learning python
 
 <!--
 **imranzn/imranzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
