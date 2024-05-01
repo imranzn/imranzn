@@ -1,5 +1,6 @@
 ### Hi there 👋
 Welcome, my name is Imran Zulkarnaen
+Tech Enthusiast | Informatics Undergraduate Student
 
 - 🔭 I’m currently working on C++
 - 🤔 I’m looking for help with html
